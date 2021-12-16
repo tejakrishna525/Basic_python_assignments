@@ -1,0 +1,27 @@
+1.  *,-,/,+  these are all expressions
+    -87.8,6   these are values 
+    
+ 2.   string is DateType
+      Variable is a container with a name to strore data
+      
+  3.  DataTypes : 1. Int
+                  2. String
+                  3.  Boolean
+                  4.  float
+                  
+   4.   an expression is madeup of values,variables,operators
+        it performs operations on data
+        
+  5.    statements represents an action like assignment statement (spam = 10),print statement
+        an expresssion is an operation on operartors it will give values as a result
+        
+  6.    bacon contains 22
+  
+  7.    'spamspamspam'
+  
+  8.    variable name cannot starts with a number in python
+  
+  9.    int(), float(), str()
+  
+  10.   we get type error because python supports strong typing it can concatinate same datatypes
+        'i have eaten'+'99' +'burritos.'
